@@ -1,1 +1,1 @@
-This engineering management project is about building a solar
+This engineering management project is about building a solar powered smart
